@@ -1,4 +1,4 @@
-### Neural_Network_NEAT
+#### Neural_Network_NEAT
 
 To execute it, run main.py in python 3.7.
 You also need NEAT, pygame, numpy and scipy
